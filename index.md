@@ -1,4 +1,4 @@
-# debelkay.github.io
+# #100daysofcode
 
-Somewhere new to put things.
+Let's try this. I suppose setting this up counts as day 1?
 
